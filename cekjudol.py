@@ -18,7 +18,7 @@ options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 
 # Path to chromedriver (replace with your actual path or leave blank if in PATH)
-chromedriver_path = 'path/to/chromedriver'
+chromedriver_path = './chromedriver.exe'
 
 # Initialize the webdriver
 service = Service(chromedriver_path)
