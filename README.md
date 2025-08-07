@@ -1,4 +1,4 @@
-# Script buat nge SS WEDE
+# Script buat nge SS-in WEB
 
 ## Prerequisites
 
@@ -7,6 +7,6 @@
 - ChromeDriver dengan versi sama kaya browser, cari di --> https://googlechromelabs.github.io/chrome-for-testing/
 - jadikan chromedriver satu folder sama script
 - install module selenium di python. $ python -m pip install selenium
-- tulis link-link judol ke file urls.txt
+- tulis link-link ke file urls.txt
 
 run script pake --> $ python cekjudol.py
